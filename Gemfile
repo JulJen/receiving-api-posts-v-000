@@ -38,8 +38,6 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'annotate'
-
-  gem 'dotenv-rails'
 end
 
 group :development do
